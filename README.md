@@ -52,10 +52,10 @@ This is a simple Spring Boot CRUD (Create, Read, Update, Delete) application tha
 
    
 ## Contributing
- Fork the project
- Create a new branch (git checkout -b feature-branch)
- Commit your changes (git commit -m 'Add new feature')
- Push to the branch (git push origin feature-branch)
- Open a Pull Request
+ - Fork the project
+ - Create a new branch (git checkout -b feature-branch)
+ - Commit your changes (git commit -m 'Add new feature')
+ - Push to the branch (git push origin feature-branch)
+ - Open a Pull Request
 
 
